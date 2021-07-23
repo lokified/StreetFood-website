@@ -1,0 +1,8 @@
+*{
+    font-family: "poppins" ,sans-serif;
+}
+.header{
+    background-color: lightgray;
+    margin: 0;
+    height: 600px;
+}
