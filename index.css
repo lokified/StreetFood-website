@@ -23,3 +23,17 @@ nav > div >ul >li{
     margin-left: 60px;
     width: 350px;
 }
+#head1{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+#part1{
+    color: #6CB840;
+}
+#part2{
+    color: #EAAB1B;
+}
+#content{
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
