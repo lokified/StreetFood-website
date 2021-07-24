@@ -14,3 +14,8 @@ ul{
     justify-content: space-between;
     padding: 20px;
 }
+nav > div >ul >li{
+    display: inline-block;
+    padding: 30px;
+    font-weight: 400;
+}
