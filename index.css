@@ -1,5 +1,6 @@
 *{
     font-family: "poppins" ,sans-serif;
+    
 }
 .header{
     background-color: lightgray;
@@ -147,7 +148,7 @@ nav > div >ul >li{
     background-color: #C9ECB5;
     padding: 30px;
     height:400px;
-
+    
 }
 #head4{
     text-align: center;
@@ -181,6 +182,7 @@ nav > div >ul >li{
     text-align: center;
     padding-left: 20px;
     width: 45%;
+    
 }
 .content3 h2{
     margin: 5px;
@@ -192,4 +194,18 @@ nav > div >ul >li{
     padding: 0;
     margin: 2px;
     padding-left: 70px;
+}
+
+
+
+.last-content{
+    clear: both;
+
+}
+.content4{
+    background-color: rgb(255, 239, 233) ;
+    margin: 50px;
+    margin-top: -50px;
+    padding: 30px;
+    height:400px;
 }
