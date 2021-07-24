@@ -4,7 +4,7 @@
 .header{
     background-color: lightgray;
     margin: 0;
-    height: 600px;
+    height: 700px;
 }
 ul{
     display: flex;
@@ -47,4 +47,30 @@ nav > div >ul >li{
     font-weight: bold;
     width: 140px;
     font-size: 15px;
+}
+.main{
+    margin: 50px;
+}
+
+#img1{
+    float: left;
+    display: flex;
+    margin-top: 5px;
+    width: 600px;
+    height: 400px;
+}
+.content1 h1{
+    color: #EAAB1B;
+    
+    
+}
+.cont-first{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 310px;
+    padding-top: 80px;
+}
+.content2{
+    clear: both;;
 }
