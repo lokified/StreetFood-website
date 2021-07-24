@@ -200,7 +200,7 @@ nav > div >ul >li{
 
 
 .content4{
-    background-color: rgb(255, 239, 233) ;
+    background-color: rgb(255, 240, 211);
     margin: 50px;
     margin-top: -50px;
     padding: 30px;
@@ -225,4 +225,14 @@ input{
     border: none;
     border-radius: 30px;
     padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.content5{
+    background-color: rgb(230, 245, 232);
+    margin: 50px;
+    padding: 30px;
 }
