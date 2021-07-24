@@ -81,7 +81,8 @@ nav > div >ul >li{
 .content2{
     clear: both;
     background-color: rgb(230, 245, 232);
-    padding: 20px;
+    padding: 30px;
+    padding-left: 90px;
 }
 #head2{
     text-align: center;
@@ -89,3 +90,28 @@ nav > div >ul >li{
 #part3{
     color: #6CB840;
 }
+.burger{
+    display: flex;
+    border: none;
+    background-color: white;
+    height: 200px;
+    width: 180px;
+    text-align: center;
+    border-bottom-right-radius: 60px;
+    padding-left: 100px;
+    
+}
+#img2{
+    width: 220px;
+    height: 200px;
+    position: absolute;
+    left:50px;
+    object-position: 2px 35px;
+    
+}
+.cont-img > h3{
+      text-align: left;
+      font-weight: 900;
+      padding-left: 2px;
+}
+
