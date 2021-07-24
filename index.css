@@ -73,6 +73,19 @@ nav > div >ul >li{
     padding-top: 100px;
 
 }
+
+
+
+
+
 .content2{
-    clear: both;;
+    clear: both;
+    background-color: rgb(230, 245, 232);
+    padding: 20px;
+}
+#head2{
+    text-align: center;
+}
+#part3{
+    color: #6CB840;
 }
