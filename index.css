@@ -250,6 +250,11 @@ input{
 #end2{
      border-left: 3px dotted #6CB840;
      padding-left: 30px;
+     padding-right: 150px;
      width: 200px;
      text-align: start;
+}
+#end3{
+    width: 270px;
+    padding-left: 150px;
 }
