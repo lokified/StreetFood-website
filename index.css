@@ -5,7 +5,7 @@
     background-color: lightgray;
     margin: 0;
     height: 800px;
-    width: 100%;
+    
     
 }
 .circle{
@@ -16,8 +16,10 @@
      width: 100%;
      height: 100%;
      clip-path: circle(56.7% at 76% 1%);
+
      
 }
+
 
 ul{
     display: flex;
@@ -141,6 +143,7 @@ nav > div >ul >li{
 .content3{
     background-color: #C9ECB5;
     padding: 30px;
+    height:400px;
 
 }
 #head4{
@@ -151,16 +154,19 @@ nav > div >ul >li{
     color: #6CB840;
 }
 .burger1{
-    
+    float: left;
+    margin-top: -120px;
 }
 #img3{
     height: 400px;
-    
+    margin-left: 150px;
+    margin-bottom: 30px;
 }
 #img4{
-    height: 300px;
-    position: absolute;
-
-    object-position: 10px 10px;
+    height: 200px;
+    margin-left: -200px;
+}
+#late1{
+    color: #6CB840;
 }
 
