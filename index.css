@@ -258,3 +258,21 @@ input{
     width: 270px;
     padding-left: 150px;
 }
+#end4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+#end4 img{
+    height: 15px;
+    width: 15px;
+}
+#end4 button{
+    border: none;
+    background-color: #6CB840;
+    color: white;
+    padding: 10px;
+    width: 90px;
+    font-weight: bold;
+}
