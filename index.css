@@ -61,6 +61,7 @@ nav > div >ul >li{
 }
 .content1 h1{
     color: #EAAB1B;
+    opacity: 0.6;
     
     
 }
@@ -69,7 +70,8 @@ nav > div >ul >li{
     flex-direction: column;
     text-align: center;
     width: 310px;
-    padding-top: 80px;
+    padding-top: 100px;
+
 }
 .content2{
     clear: both;;
