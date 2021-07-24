@@ -6,3 +6,11 @@
     margin: 0;
     height: 600px;
 }
+ul{
+    display: flex;
+    position: relative;
+    top: 30px;
+    margin-bottom: 100px;
+    justify-content: space-between;
+    padding: 20px;
+}
