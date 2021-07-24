@@ -217,6 +217,12 @@ nav > div >ul >li{
 #message{
     width: 300px;
     text-align: center;
-    padding-left: 40%;
+    padding-left: 430px;
     margin-bottom: 50px;
+}
+input{
+    width: 50%;
+    border: none;
+    border-radius: 30px;
+    padding: 20px;
 }
