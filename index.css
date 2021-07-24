@@ -21,7 +21,7 @@ nav > div >ul >li{
 }
 .heading{
     margin-left: 60px;
-    width: 350px;
+    width: 310px;
 }
 #head1{
     font-size: 40px;
@@ -36,4 +36,15 @@ nav > div >ul >li{
 #content{
     margin-top: 10px;
     margin-bottom: 25px;
+}
+#press{
+    background-color: #6CB840;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    width: 140px;
+    font-size: 15px;
 }
