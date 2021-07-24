@@ -19,3 +19,7 @@ nav > div >ul >li{
     padding: 30px;
     font-weight: 400;
 }
+.heading{
+    margin-left: 60px;
+    width: 350px;
+}
