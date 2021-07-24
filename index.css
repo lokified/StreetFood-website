@@ -198,14 +198,25 @@ nav > div >ul >li{
 
 
 
-.last-content{
-    clear: both;
 
-}
 .content4{
     background-color: rgb(255, 239, 233) ;
     margin: 50px;
     margin-top: -50px;
     padding: 30px;
     height:400px;
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 40px;
+}
+#part5{
+    color: #6CB840;
+}
+#message{
+    width: 300px;
+    text-align: center;
+    padding-left: 40%;
+    margin-bottom: 50px;
 }
