@@ -10,7 +10,7 @@
     
 }
 .circle{
-     background-color: rgb(108, 160, 108);
+     background-color: #649549;
      position: absolute;
      left: 0;
      top: 0;
@@ -339,4 +339,54 @@ input{
     width: 0;
     height: 0;
     transform: rotate(-70deg);
+}
+
+
+#img11{
+  
+  width: 70px;
+  position: absolute;
+  display: flex;
+  right: 10%; 
+  bottom: 7%; 
+
+}
+#img22{
+
+  width: 70px;
+  position: absolute;
+  display: flex;
+  right: 15%; 
+  bottom: 30%;
+}
+#img33{
+    
+    width: 70px;
+    position: absolute;
+    display: flex;
+    right: 26%; 
+    bottom: 40%; 
+}
+#img44{
+    
+    width: 70px;
+    position: absolute;
+    display: flex;
+    right: 35%; 
+    bottom: 30%;
+}
+#img55{
+    
+    width: 70px;
+    position: absolute;
+    display: flex;
+    right: 43%; 
+    bottom: 16%;
+}
+#img66{
+    width: 190px;
+    position: absolute;
+    display: flex;
+    right: 21%; 
+    bottom: 0;
 }
