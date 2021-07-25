@@ -1,11 +1,12 @@
 *{
     font-family: 'Poppins', sans-serif;
+    
 }
 .header{
     background-color: lightgray;
     margin: 0;
     height: 800px;
-    
+    width: 100%;
     
 }
 .circle{
