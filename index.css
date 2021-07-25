@@ -33,7 +33,7 @@ ul{
 nav > div >ul >li{
     display: inline-block;
     padding: 30px;
-    font-weight: 400;
+    font-weight: 600;
 }
 .heading{
     margin-left: 60px;
@@ -128,13 +128,13 @@ nav > div >ul >li{
     height: 170px;
     float: left;
     margin-left: -100px;
-    padding-top: 50px;
+    padding-top: 40px;
 }
 .cont-img{
     border: none;
     background-color: white;
     width: 300px;
-    height: 180px;
+    height: 170px;
     border-radius: 2px;
     border-bottom-right-radius: 50px;
     padding: 4px;
@@ -143,15 +143,17 @@ nav > div >ul >li{
    
 }
 
-div #head3{
-    text-align: left;
-      font-weight: 900;
-      margin-left: -50px;
+ #head3{
+      
+      font-weight: bold;
+      text-align: start;
+      position: absolute;
       
 }
 .cont-img p{
     text-align: center;
     width: 280px;
+    padding-top: 30px;
 }
 
 
@@ -176,6 +178,7 @@ div #head3{
 .burger1{
     float: left;
     margin-top: -120px;
+    
 }
 #img3{
     height: 500px;
@@ -254,7 +257,7 @@ input{
     padding: 30px;
     display: flex;
     justify-content: space-between;
-    
+    height: 200px;
 }
 #end1{
     width: 200px;
@@ -264,9 +267,10 @@ input{
     font-size: 13px;
 }
 #end2{
-     border-left: 3px dotted #6CB840;
+     border-left: 3px  dotted #6CB840;
      padding-left: 30px;
      padding-right: 150px;
+     padding-top: 40px;
      width: 200px;
      text-align: start;
 }
@@ -283,6 +287,7 @@ input{
 #end4 img{
     height: 15px;
     width: 15px;
+    margin: 0;
 }
 #end4 button{
     border: none;
@@ -372,8 +377,8 @@ input{
     width: 70px;
     position: absolute;
     display: flex;
-    right: 35%; 
-    bottom: 30%;
+    right: 37%; 
+    bottom: 32%;
 }
 #img55{
     
@@ -389,4 +394,11 @@ input{
     display: flex;
     right: 21%; 
     bottom: 0;
+}
+#at{
+    padding: 10px;
+    padding-top: 10px;
+}
+div h3{
+    letter-spacing: 1px;
 }
