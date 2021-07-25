@@ -111,36 +111,27 @@ nav > div >ul >li{
 #part3{
     color: #6CB840;
 }
-.burger{
+.menu{
     display: flex;
-    border: none;
-    background-color: white;
-    height: 200px;
-    width: 180px;
-    border-bottom-right-radius: 60px;
-    padding-left: 100px;
-    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    
 }
 #img2{
     width: 220px;
     height: 200px;
-    position: relative;
-    left:50px;
-    object-position: 2px 35px;
-    
+    float: left;
 }
+
+
 
 #head3{
       text-align: left;
       font-weight: 900;
       padding-left: 2px;
 }
-.menu{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    
-}
+
 
 
 
