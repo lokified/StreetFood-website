@@ -1,6 +1,5 @@
 *{
-    font-family: "poppins" ,sans-serif;
-    
+    font-family: 'Poppins', sans-serif;
 }
 .header{
     background-color: lightgray;
@@ -37,7 +36,7 @@ nav > div >ul >li{
 }
 .heading{
     margin-left: 60px;
-    width: 310px;
+    width: 350px;
 }
 #head1{
     font-size: 40px;
@@ -48,7 +47,9 @@ nav > div >ul >li{
 }
 #part2{
     color: #EAAB1B;
+    
 }
+
 #content{
     margin-top: 10px;
     margin-bottom: 25px;
@@ -72,8 +73,11 @@ nav > div >ul >li{
     float: left;
     display: flex;
     margin-top: 5px;
-    width: 600px;
-    height: 400px;
+    width: 700px;
+    height: 500px;
+}
+.content1{
+    padding-bottom: 200px;
 }
 .content1 h1{
     color: #EAAB1B;
@@ -85,7 +89,7 @@ nav > div >ul >li{
     display: flex;
     flex-direction: column;
     text-align: center;
-    width: 310px;
+    width: 375px;
     padding-top: 100px;
     
 }
@@ -116,14 +120,14 @@ nav > div >ul >li{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
-    
+    padding: 10px;
 }
  #img2{
     width: 220px;
-    height: 150px;
+    height: 170px;
     float: left;
     margin-left: -100px;
-    padding-top: 60px;
+    padding-top: 50px;
 }
 .cont-img{
     border: none;
@@ -135,6 +139,7 @@ nav > div >ul >li{
     padding: 4px;
     padding-right: 15px;
     padding-left: -200px;
+   
 }
 
 div #head3{
@@ -145,7 +150,7 @@ div #head3{
 }
 .cont-img p{
     text-align: center;
-    width: 260px;
+    width: 280px;
 }
 
 
@@ -155,7 +160,7 @@ div #head3{
 .content3{
     background-color: #C9ECB5;
     padding: 30px;
-    height:400px;
+    height:550px;
     
 }
 #head4{
@@ -172,24 +177,26 @@ div #head3{
     margin-top: -120px;
 }
 #img3{
-    height: 400px;
+    height: 500px;
+    width: 350px;
     margin-left: 150px;
     margin-bottom: 30px;
 }
 #img4{
-    height: 200px;
-    margin-left: -200px;
+    height: 250px;
+    margin-left: -280px;
 }
 #late1{
     color: #6CB840;
     font-weight: 500;
     margin-bottom: 2px;
+    
 }
 
 .content3 p{
     text-align: center;
-    padding-left: 20px;
-    width: 45%;
+    padding-left: 5px;
+    width: 370px;
     
 }
 .content3 h2{
@@ -223,7 +230,7 @@ div #head3{
     color: #6CB840;
 }
 #message{
-    width: 300px;
+    width: 370px;
     text-align: center;
     padding-left: 430px;
     margin-bottom: 50px;
