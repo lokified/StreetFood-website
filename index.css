@@ -291,3 +291,51 @@ input{
     width: 90px;
     font-weight: bold;
 }
+.container{
+    position: relative;
+    
+}
+.container h2{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.star{
+    position: relative;
+    display: block;
+    color: rgb(32, 32, 32);
+    width: 0;
+    height: 0;
+    border-right: 100px solid transparent;
+    border-bottom: 70px solid rgb(32, 32, 32);
+    border-left: 100px solid transparent;
+    transform: rotate(35deg);
+}
+.star:after {
+    border-bottom: 80px solid rgb(32, 32, 32);
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    top: -45px;
+    left: -65px;
+    display: block;
+    transform: rotate(-35deg);
+}
+.star:before{
+    border-right: 100px solid transparent;
+    border-bottom: 70px  solid rgb(32, 32, 32);
+    border-left: 100px solid transparent;
+    position: absolute;
+    content: "";
+    display:block;
+    top: 3px;
+    left: -105px;
+    width: 0;
+    height: 0;
+    transform: rotate(-70deg);
+}
